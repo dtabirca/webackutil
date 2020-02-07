@@ -2,7 +2,7 @@
 - A single file web interface to backup and restore databases and files
 - PHP calls external bash/batch scripts to perform the tasks.
 
-![screenshot](https://github.com/dtabirca/webackuptool/blob/master/screenshot.png "demo")
+![screenshot](https://github.com/dtabirca/webackutil/blob/master/screenshot.png "demo")
 
 ## TODO
 - Keep archives and logs for last 5 backups only
